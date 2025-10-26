@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+ I’m Kamal Deep Choudhary, a Techno-Functional Analytics & Automation Leader with 13+ years of experience in Investment Banking, Compliance, and Risk Analytics.
+
+I build AI-powered automation and analytics solutions using Python, Alteryx, Power BI, and Generative AI (OpenAI / LangChain) — turning complex regulatory and operational data into actionable insights.
+
+Currently leading Compliance Automation & Surveillance at Goldman Sachs, with a focus on RPA, data pipelines, and governance dashboards. Passionate about building scalable, production-grade apps that combine automation, data visualization, and intelligent document processing.
+
 <!--
 **kamaldeep786/kamaldeep786** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
