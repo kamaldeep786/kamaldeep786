@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-[![medium profile link](https://www.linkedin.com/in/kamaldeep-choudhary-bb973934b/)
+[![linkedin profile link](https://www.linkedin.com/in/kamaldeep-choudhary-bb973934b/)
 
  I’m Kamal Deep Choudhary, a Techno-Functional Analytics & Automation Leader with 13+ years of experience in Investment Banking, Compliance, and Risk Analytics.
 
