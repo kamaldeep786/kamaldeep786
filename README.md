@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+[![medium profile link](https://www.linkedin.com/in/kamaldeep-choudhary-bb973934b/)
+
  I’m Kamal Deep Choudhary, a Techno-Functional Analytics & Automation Leader with 13+ years of experience in Investment Banking, Compliance, and Risk Analytics.
 
 I build AI-powered automation and analytics solutions using Python, Alteryx, Power BI, and Generative AI (OpenAI / LangChain) — turning complex regulatory and operational data into actionable insights.
